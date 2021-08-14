@@ -11,8 +11,8 @@ click.echo(message='\nGeneric Click Template V0.1a')
 # - https://click.palletsprojects.com/en/8.0.x/options/
 # Opciones
 @click.command()
-@click.option('--arg1')
-@click.option('--arg2')
+@click.option('-1','--argument1','arg1')
+@click.option('-2','--argument2','arg2')
 
 # Funcion main_
 # Esta función puede tener cualquier nombre
