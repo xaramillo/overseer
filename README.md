@@ -1,2 +1,6 @@
-# Overseer - Pipeline Orcherstrator CLI
-Administrador de Pipelines basado en SnakeMake y Shell
+# Overseer - Simple Conda Loader/Unloader
+Administrador de Pipelines basado en SnakeMake, Conda y Shell.
+
+## Actualizaciones
+
+- En fase de construccion
